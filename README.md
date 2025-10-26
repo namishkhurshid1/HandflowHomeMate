@@ -1,5 +1,6 @@
 # HandFlowHomeMate: Gesture-Controlled Smart Home
 
+
 A portable AI-based smart home system that lets you control devices using simple hand gestures via webcam. Built with Python, OpenCV, MediaPipe, and Arduino.
 
 ## 💡 Features
